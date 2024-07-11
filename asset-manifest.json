@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/masarat_alremal/static/css/main.b0024404.css",
+    "main.js": "/masarat_alremal/static/js/main.4c90e323.js",
+    "static/js/453.f14192a7.chunk.js": "/masarat_alremal/static/js/453.f14192a7.chunk.js",
+    "static/media/logo.png": "/masarat_alremal/static/media/logo.fe3f90367db163686a9d.png",
+    "index.html": "/masarat_alremal/index.html",
+    "static/media/plus.svg": "/masarat_alremal/static/media/plus.6453cdb98704816ec9a5.svg",
+    "static/media/minus.svg": "/masarat_alremal/static/media/minus.2ccd9036ee01c1325edb.svg",
+    "main.b0024404.css.map": "/masarat_alremal/static/css/main.b0024404.css.map",
+    "main.4c90e323.js.map": "/masarat_alremal/static/js/main.4c90e323.js.map",
+    "453.f14192a7.chunk.js.map": "/masarat_alremal/static/js/453.f14192a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0024404.css",
+    "static/js/main.4c90e323.js"
+  ]
+}
